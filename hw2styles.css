@@ -1,0 +1,36 @@
+#top {
+    text-align: center; 
+    font-size: 50px; 
+    color: purple;
+    /* position: fixed;  */
+    background-image: url('mujica_bg.jpeg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+
+
+h1 {
+    position: fixed;
+    /* left: 50%; */
+    /* transform: translate(-50%, -50%); */
+    color: coral;}
+h3 {text-align: center; color: coral;}
+p {text-align: center; font-size: 26px; color: coral;}
+a {color:coral}
+a:hover {color: aqua;}
+body {
+    background-image: url('coffee_bg.png'); 
+    background-size: cover; 
+    background-position: top; 
+    background-repeat: no-repeat; 
+}
+
+footer {
+    text-align: center; 
+    color: whitesmoke;
+    background-color: black;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+}
